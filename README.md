@@ -1,9 +1,9 @@
-# <a href="https://vinodjangid07.github.io/Social-App" target="_blank">Simple QR Code Generator</a>
+# <a href="https://github.com/ErAshutoshGupta" target="_blank">Simple QR Code Generator</a>
 <p align="justify">A QR CODE Generator Webpage using API</p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/ErAshutoshGupta)
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://github.com/ErAshutoshGupta)
-[![Author](https://img.shields.io/badge/Author-Vinod%20Jangid-purple.svg)](https://www.instagram.com/__a.s.h.u.t.o.s.h___/)
+[![Author](https://img.shields.io/badge/Author-Ashutosh-purple.svg)](https://www.instagram.com/__a.s.h.u.t.o.s.h___/)
 
  
 ![Screenshot of Website](https://github.com/ErAshutoshGupta/QR-Code-Generator)
